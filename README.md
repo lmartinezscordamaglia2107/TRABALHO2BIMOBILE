@@ -1,3 +1,4 @@
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/4ae7c21c-11ce-4110-a862-f83ab59020bd" />
 # GestãoFit
 
 Sistema de gestão para academias desenvolvido em Android utilizando Kotlin, Jetpack Compose e Room Database.
@@ -89,3 +90,4 @@ git commit -m "fix: corrige cálculo do saldo"
 ## Licença
 
 Projeto desenvolvido para fins educacionais e de estudo.
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/043604de-7cd9-40a4-a7e9-2c8ba968d609" />
